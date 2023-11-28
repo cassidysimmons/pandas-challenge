@@ -1,0 +1,20 @@
+		written analysis
+
+summarize the analysis:
+	The main take aways from this analysis seem to be:
+	1. Schools with the lowest budget per student have the highest overall passing, and schools with the highest
+	   budget per student have the lowest
+	2. Medium sized schools (1000-2000 students) have the highest overall passing, and large schools have the lowest
+	3. Charter schools have a higher overall passing than districts
+	Of course there are further comparisons you could make about the data with other potential DataFrames, but with
+	the DataFrames we created these seem to be the most important points.
+
+draws two correct conclusions or comparisons from the calculations:
+	One interesting comparison I noticed is the relationship between 'spending per student' and 'overall passing'.
+ 	Originally I would have thought, more spending per student = higher overall passing, but the data seems to show the opposite;
+	the lowest budget range has the highest overall passing, and the highest budget has the lowest overall passing. I believe the
+	school size may play a role in this comparison, which brings me to my second point: the small and medium school sizes have the
+	highest overall passing scores. Smaller schools would normally be unable to accumulate as much budget as a larger school, therefore
+	being unable to allocate more budget per student. Although smaller/ medium sized schools may have less budget, they are notorious
+	for putting more effort and personalization into individual students. The correlations between 'spending per student', 'school size'
+	and 'overall passing' definitely bring up some interesting questions about the role budget plays in student success.
